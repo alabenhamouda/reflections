@@ -1,0 +1,25 @@
+-How did viewing a diff between two versions of a file help you see the bug that was introduced?
+viewing a diff between two files help spot the differences to make the scope smaller.
+So you can look just at the changes and sport the typo.
+-How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+this can help you if you made a mistake and you want to go back to previous version.
+ this can help you if you want to try another path in your code and try another idea
+ but you want to be able to view different paths you've gone through.
+ -What do you think are the pros and cons of manually choosing when to create a commit,
+    like you do in Git, vs having versions automatically saved, like Google Docs does?
+ when looking back to history making your own commits helps you stay organized and understand what
+ each commit do. But you should know when to commit and strive to not forget to do it.
+ Google Docs automatically save and you don't have to bother committing.
+ -Why do you think some version control systems, like Git, allow saving multiple files in one commit,
+ while others, like Google Docs, treat each file separately?
+ For code related version-control systems like Git, it's important to track multiple files at once
+ because some changes affect multiple files. When you want to refer to that commit you want to see
+ the change in all files because they're all related.
+ -How can you use the commands git log and git diff to view the history of files?
+ you can use git log to view history if commits and their messages then use that to copy the ids of
+ the commits you want to compare, us git diff command to compare the two commits.
+ -How might using version control make you more confident to make changes that could break something?
+ with Git you're safe to try changes and try something else in code because if you mess up with something
+ you can easily go back to your previous working version.
+ -Now that you have your workspace set up, what do you want to try using Git for?
+now i want to see how powerful git is and see it in action.
