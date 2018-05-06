@@ -7,3 +7,7 @@ the staging area represents the files that changed and you want them to be commi
 because they represent one logical change. So it's the version that you want to be committed.
 Once you're ready then you want to commit that in the repository.
 the working directory is just the working directory.
+-How can you use the staging area to make sure you have one commit per logical change?
+if you made several changes without committing you're still be able to just add the files that
+have the new changes in the staging area and commit them only to keep one logical change
+per commit. 
