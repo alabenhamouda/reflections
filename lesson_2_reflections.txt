@@ -10,4 +10,10 @@ the working directory is just the working directory.
 -How can you use the staging area to make sure you have one commit per logical change?
 if you made several changes without committing you're still be able to just add the files that
 have the new changes in the staging area and commit them only to keep one logical change
-per commit. 
+per commit.
+-What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+if you want start another path in your project like another version or so
+and you also need to keep the original version to view or to work on and add commits to it.
+Branches come in handy letting work on 2 branches and add commits and modify them both while still being able to
+access them easily.
