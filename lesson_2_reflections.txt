@@ -17,3 +17,6 @@ if you want start another path in your project like another version or so
 and you also need to keep the original version to view or to work on and add commits to it.
 Branches come in handy letting work on 2 branches and add commits and modify them both while still being able to
 access them easily.
+-How do the diagrams help you visualize the branch structure?
+The diagrams help you visualize the branch structure and know where do the commits
+point.
