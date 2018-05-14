@@ -1,0 +1,5 @@
+-When would you want to use a remote repository rather than keeping all your work local?
+I think using a remote repository comes in handy when collaborating with other developers.
+It makes work a lot easier.
+And it's a great way to publish your projects when you're done to share it with others to help them. And also so they can update
+your version and contibute to it so the project get bigger and bigger.
