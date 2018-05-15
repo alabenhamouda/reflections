@@ -6,3 +6,9 @@ your version and contribute to it so the project get bigger and bigger.
 -Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 It can be pretty annoying if it automatically waste time to pull and push changes especially when changes
 are big. Also you might not to pull some changes and you want to get more control.
+-Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are copies of github repositories in github. It's related to the origin repository. We use to try changes on a github repository
+and then we could suggest these changes to the author. Clones are copies of repositories locally. So you wanna clone a repo to 
+work on it on your computer. Once you're done you can then push it to a remote repository to share it with people.
+Lastly, branches are just one path in the commit history of a repository. Using it allow us to organize work and facilitate 
+working on features especially collaborating.
