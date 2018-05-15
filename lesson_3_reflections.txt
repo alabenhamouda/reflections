@@ -2,4 +2,7 @@
 I think using a remote repository comes in handy when collaborating with other developers.
 It makes work a lot easier.
 And it's a great way to publish your projects when you're done to share it with others to help them. And also so they can update
-your version and contibute to it so the project get bigger and bigger.
+your version and contribute to it so the project get bigger and bigger.
+-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+It can be pretty annoying if it automatically waste time to pull and push changes especially when changes
+are big. Also you might not to pull some changes and you want to get more control.
