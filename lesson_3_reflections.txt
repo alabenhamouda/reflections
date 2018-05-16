@@ -12,3 +12,5 @@ and then we could suggest these changes to the author. Clones are copies of repo
 work on it on your computer. Once you're done you can then push it to a remote repository to share it with people.
 Lastly, branches are just one path in the commit history of a repository. Using it allow us to organize work and facilitate 
 working on features especially collaborating.
+-What is the benefit of having a copy of the last known state of the remote stored locally?
+You can compare the your branch and the remote branch.
