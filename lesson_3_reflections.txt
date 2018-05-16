@@ -14,3 +14,6 @@ Lastly, branches are just one path in the commit history of a repository. Using 
 working on features especially collaborating.
 -What is the benefit of having a copy of the last known state of the remote stored locally?
 You can compare the your branch and the remote branch.
+-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Git is a useful tool for facilitating collaboration and working in teams. it would be so hard without it and so irritating.
+
